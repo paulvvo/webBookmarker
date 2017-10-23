@@ -138,6 +138,6 @@ function validation(siteUrl,siteName){
         alert("not valid url");
         return false;
     }
-
+    
     return true;
 }
